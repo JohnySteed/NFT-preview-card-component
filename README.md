@@ -25,12 +25,14 @@ Users should be able to:
 
 ### Screenshot
 
+![](./screenshots/Screenshot 2023-04-02 190924.png)
+![](./screenshots/Screenshot 2023-04-02 191055.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [NFT-preview-card-component] (https://your-solution-url.com)
+- Live Site URL:  Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
