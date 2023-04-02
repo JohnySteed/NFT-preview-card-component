@@ -27,6 +27,9 @@ Users should be able to:
 
 ### Screenshot
 
+![](./screenshots/MobileSite.jpg)
+![](./screenshots/PCsite.jpg)
+
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
