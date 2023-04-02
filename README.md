@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [NFT-preview-card-component](https://github.com/JohnySteed/NFT-preview-card-component)
+- Live Site URL: [Frontend Mentor | NFT preview card component](https://johnysteed.github.io/NFT-preview-card-component/)
 
 ## My process
 
